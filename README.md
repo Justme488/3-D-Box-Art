@@ -18,26 +18,28 @@ Atari Lynx - Koolbrez67 (EmuMovies)
 
 NEC PC Engine - Kondorito (EmuMovies)
 
-Nintendo Game Boy - WallyWonka (EmuMovies)
-
-Nintendo Game Boy Color - mildanti (EmuMovies)
-
-Nintendo Game Boy Advance - EmuMovies Community (EmuMovies)
-
 Nintendo 64 - Kondorito (EmuMovies)
 
 Nintendo DS - Robin55 (EmuMovies)
+
+Nintendo Game Boy - WallyWonka (EmuMovies)
+
+Nintendo Game Boy Advance - EmuMovies Community (EmuMovies)
+
+Nintendo Game Boy Color - mildanti (EmuMovies)
 
 Nintendo NES - Kondorito (EmuMovies)
 
 Nintendo SNES - Stephelus (EmuMovies) and Rubbishmonkey (Reddit)
 
-Sega 32X - Robin55 (EmuMovies)
+Nintendo Virtual Boy - EmuMovies Community (EmuMovies)
 
-Sega Master System - Jardavius (EmuMovies)
+Sega 32X - Robin55 (EmuMovies)
 
 Sega Game Gear - WallyWonka (EmuMovies)
 
 Sega Genesis - DamnedRegistrations (EmuMovies)
+
+Sega Master System - Jardavius (EmuMovies)
 
 Sega SG-1000 - Dreygor (EmuMovies)
