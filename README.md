@@ -36,6 +36,8 @@ Sega 32X - Robin55 (EmuMovies)
 
 Sega Master System - Jardavius (EmuMovies)
 
+Sega Game Gear - WallyWonka (EmuMovies)
+
 Sega Genesis - DamnedRegistrations (EmuMovies)
 
 Sega SG-1000 - Dreygor (EmuMovies)
