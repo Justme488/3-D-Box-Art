@@ -6,7 +6,7 @@ I did not create these, I just found them.
 
 If you see any mistakes, or want to add, please submit a pull request.
 
-<strong>Credits:</strong>
+<ins>**Credits:**</ins>
 
 Atari 2600 - WallyWonka (EmuMovies)
 
@@ -15,6 +15,8 @@ Atari 5200 - DamnedRegistrations (EmuMovies)
 Atari 7800 - DamnedRegistrations (EmuMovies)
 
 Atari Lynx - Koolbrez67 (EmuMovies)
+
+NEC PC Engine - Kondorito (EmuMovies)
 
 Nintendo Game Boy - WallyWonka (EmuMovies)
 
