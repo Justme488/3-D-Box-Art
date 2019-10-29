@@ -6,7 +6,7 @@ I did not create these, I just found them.
 
 If you see any mistakes, or want to add, please submit a pull request.
 
-Credits:
+<strong>Credits:</strong>
 
 Atari 2600 - WallyWonka (EmuMovies)
 
