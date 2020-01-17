@@ -44,4 +44,4 @@ Sega Master System - Jardavius (EmuMovies)
 
 Sega SG-1000 - Dreygor (EmuMovies)
 
-(WIP) Sony - Playstation - WallyWonka (EmuMovies)
+Sony - Playstation - WallyWonka (EmuMovies)
