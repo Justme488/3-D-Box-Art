@@ -36,7 +36,7 @@ Nintendo Virtual Boy - EmuMovies Community (EmuMovies)
 
 Sega 32X - Robin55 (EmuMovies)
 
-***(WIP)*** Sega CD
+Sega CD - Robin55 (EmuMovies)
 
 Sega Game Gear - WallyWonka (EmuMovies)
 
