@@ -38,7 +38,7 @@ Sega 32X - Robin55 (EmuMovies)
 
 Sega CD - Robin55 (EmuMovies)
 
-***WIP*** Sega - Dreamcast - SupraKarma (EmuMovies)
+Sega - Dreamcast - SupraKarma (EmuMovies)
 
 Sega Game Gear - WallyWonka (EmuMovies)
 
